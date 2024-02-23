@@ -12,11 +12,13 @@ Both repositories share in commmon:
 
 - SvelteKit
 - TailwindCSS
+- Iconify
 
 ## API
 
 - Nest.js
 - Mongoose wrapper for MongoDB
+- Helmet
 
 (SQL Support is planned in the future)
 
